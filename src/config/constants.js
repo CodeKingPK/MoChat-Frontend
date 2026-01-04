@@ -9,8 +9,8 @@
 
 // For testing on physical device or different emulator (same network)
 // Your computer's local IP address (shown in backend terminal)
-export const API_BASE_URL = 'http://192.168.1.103:3000/api';
-export const WS_BASE_URL = 'ws://192.168.1.103:3000';
+export const API_BASE_URL = 'http://192.168.1.108:3000/api';
+export const WS_BASE_URL = 'ws://192.168.1.108:3000';
 
 // For production deployment
 // export const API_BASE_URL = 'https://your-backend.com/api';
